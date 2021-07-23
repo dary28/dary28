@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dary28
+- 👋 Hi, I’m Aryan
 - 👀 I’m keenly interested in Technology
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android and App development
